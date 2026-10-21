@@ -1,4 +1,4 @@
-# Hi, I'm Charit S Gowda
+# Hi, I'm Charit S Gowda 👋
 
 ### CS & AI/ML Engineering Student | Aspiring Software Developer
 
